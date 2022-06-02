@@ -4,11 +4,12 @@
 
 1. Install pyspark
 2. Download dataset from [Kagle](https://www.kaggle.com/datasets)
-3. Create `SparkSession`
-4. Read `csv` dataset
-5. Print Schema and Show a bit of data
-6. Write dataset in formats `json`, `parquet`, `orc`
-7. Query Parquet file with the console `parquet-tools`.
+3. Save the dataset to the folder `data` 
+4. Create `SparkSession`
+5. Read `csv` dataset
+6. Print Schema and Show a bit of data
+7. Write dataset in formats `json`, `parquet`, `orc`
+8. Query Parquet file with the console `parquet-tools`.
 
 ## Spark
 
